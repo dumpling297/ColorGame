@@ -1,4 +1,4 @@
- body {
+body {
     background: #232323;
     margin: 0;
     font-size: 12px;
@@ -77,4 +77,4 @@ button {
 
 #resetBtn {
     color: orange!important;
-} */
+}
