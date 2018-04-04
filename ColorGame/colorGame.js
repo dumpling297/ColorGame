@@ -94,10 +94,10 @@ function setupSquares() {                                       // backgroundCol
                 messageDisplay.style.color = goalColor;
                 changeColors(goalColor);
                 h1.style.backgroundColor = goalColor;
-                resetBtn.textContent = "Play Again";
+                resetBtn.textContent = "Replay";
             } else {
                 this.style.background = bgColor;
-                messageDisplay.textContent = "LoL";
+                messageDisplay.textContent = ">_";
                 messageDisplay.classList.add("msgToggle");
             }
         });
